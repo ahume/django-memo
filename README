@@ -1,0 +1,1 @@
+django-memo is a very simple application for sending users of your site messages and notifications. Used for slightly less transient messaging than the Djanog built in message system.
